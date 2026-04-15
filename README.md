@@ -53,7 +53,7 @@ This repository contains a comprehensive collection of 20 C programs focused on 
 
 1. **Clone the Repository:**
 ```bash
-
+https://github.com/Divyansh-K-Art/20-Questions-of-C-Programming-Language.git
 ```
 
 
